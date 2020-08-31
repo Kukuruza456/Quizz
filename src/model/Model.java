@@ -40,4 +40,8 @@ public class Model {
 
         return questions.get(random);
     }
+    public void change(){
+        String a = "change";
+    }
+
 }
