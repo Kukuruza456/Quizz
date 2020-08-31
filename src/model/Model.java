@@ -19,7 +19,7 @@ public class Model {
 
             String line = reader.readLine();
             while (line != null) {
-
+                String a;
                 String[] question = line.split(";");
                 questions.put(Integer.parseInt(question[0]), new Questions(question[1], question[2], question[3], question[4], question[5]));
 
