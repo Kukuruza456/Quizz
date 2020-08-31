@@ -34,7 +34,8 @@ public class Model {
     }
 
     public Questions getQuestions(int random){
-//        Random random = new Random();
+        Random random = new Random();
+      int a = 0;
 
 
         return questions.get(random);
