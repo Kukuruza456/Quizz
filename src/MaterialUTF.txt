@@ -1,0 +1,30 @@
+1;Für welchen der berühmten Künstler gibt es zwei gültige Schreibweisen des Namens?;Albrecht Dürer;Roy Lichtenstein;Pablo Picasso;Roy Lichtenstein
+2;Für welchen der berühmten Künstler gibt es keine zwei gültige Schreibweisen des Namens?;Piet Mondriaan;Roy Lichtenstein;Pablo Picasso;Pablo Picasso
+3;Für welchen Künstler des 20. Jh. wurden schon zu Lebzeiten zwei Museen eingerichtet?;Max Ernst;Pablo Picasso;Andy Warhol;Pablo Picasso
+4;Welchem dieser drei Künstler wurde zu Lebzeiten KEIN eigenes Museeum eingerichtet?;Pablo Picasso;Salvador Dali;Claude Monet;Claude Monet
+5;Welche Merkmale zeichnen den Impressionismus aus?;Traummotive;keine festen Umrisslinien;starke Konturen;keine festen Umrisslinien
+6;Welcher Künstler hat schon mal eine seiner Skulpturen eingeatmet?;Willard Wigan;Edgar Degas;Joseph Beuys;Willard Wigan
+7;In welchem Zeitraum war die Design-Epoche des Bauhaus verbreitet?;1919-1930;1950-1970;1985-2000;1919-1930
+8;Wer war der Gründervater der Bauhausschule?;Walter Gropius;Johannes Itten;Paul Klee;Walter Gropius
+9;Welcher Künstler hat kein BMW Art Car entworfen?;Keith Haring;Roy Lichtenstein;Andy Warhol;Keith Haring
+10;In welchem Jahr begann der Bau des Kölner Doms?;1337;1248;420;1248
+11;Welcher Künstler spielt in dem Spiel "Assassins Creed 2" eine große Rolle?;Da Vinci;Michelangelo;Dürer;Da Vinci
+12;Wer malte das Gemälde "Nachtwache"?;Rembrandt;van Gogh;Mondriaan;Rembrandt
+13;Welcher dieser Maler gehört nicht zum Impressionismus?;Monet;Brueghel;Renoir;Brueghel
+14;Was war die Besonderheit an Michelangelo?;Er war Linkshänder;Er war schizophren;Er war taub;Er war Linkshänder
+15;Wie heisst ein japanischer Comic?;Nimwa;Manga;Hiro;Manga
+16;Für welchen dieser Baustile sind spitz nach oben zulaufende Fenster typisch?;Renaissance;Jugendstil;Gotik;Gotik
+17;In welcher dieser Städte steht ein Haus von Friedensreich Hundertwasser?;München;Stuttgart;Darmstadt;Darmstadt
+18;Die Besonderheit der PopArt war...;dass sie durch makabre, blutige Themen schockierte;dass sie den Massenkonsum kritisierte;dass sie aus ausschließlich jugendlichen Künstlern bestand;dass sie den Massenkonsum kritisierte
+19;Wer oder was ist "Die Brücke"?;Der Künstlername eines esoterischen Malers;Ein seltenes Bild von VanGogh, dessen Wiederentdeckung für viel Furore gesorgt hat;Eine Künstler-Vereinigung;Eine Künstler-Vereinigung
+20;Die Zeit um die Jahrhundertwende 19./20. Jahrhundert wurde auch ... genannt.;Nova Antiqua;Belle Epoque;Age of Arts;Belle Epoque
+21;Wer malte das berühmte Bild "Das letzte Abendmahl"?;Michelangelo;Van Gogh;Leonardo DaVinci;Leonardo DaVinci
+22;Welches Museum ist nicht in New York?;Metropolitan Museum;Museum of Modern Art;J. Paul Getty Museum;J. Paul Getty Museum
+23;Welches Gemälde von Picasso erinnert an den spanischen Bürgerkrieg?;Friedenstaube;Kriegsbild;Guernica;Guernica
+24;Welches Bild wurde im Jahr 2004 gestohlen?;Der Schrei;Der Hieb;Der Blick;Der Schrei
+25;Was ist ein typisches Merkmal des Klassizismus?;Bunte Mosaiken;Schnörkel;Säulenreihen;Säulenreihen
+26;Wer war Mitglied des "Blauen Reiter"?;Salvador Dalí;Franz Marc;Claude Monet;Franz Marc
+27;Welches Element bestimmt Friedensreich Hundertwassers malerisches Werk?;Spirale;Kreis;Parabel;Spirale
+28;Wofür ist der Kupferstecher Matthäus Merian u. a. bekannt?;Tierbilder;Porträts;Stadtansichten;Stadtansichten
+29;Von wessen Werk "Impression, Sonnenaufgang" wurde der Begriff Impressionismus abgeleitet?;Edgar Degas;Paul Cézanne;Claude Monet;Claude Monet
+30;Welcher Künstler gestaltete die fantasievollen Plattencover der Gruppe "Yes"?;Roger Dean;Dean Summer;Dean Reed;Roger Dean
